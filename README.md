@@ -37,6 +37,6 @@ ClickHouse, for national-scale data consolidation.
 
 ### Before
 
-CTO, and a lead developer before that. MSc in computer vision, BSc in physics. Still in the code.
+Lead developer. MSc in computer vision, BSc in physics. Still in the code.
 
 Bandung, Indonesia.
