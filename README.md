@@ -16,11 +16,11 @@ Evaluations of how AI models do real work, and how they fail. Four suites across
 negative controls, outcome scored separately from process, and the null results kept in rather
 than quietly deleted. The dangerous failures, it turns out, do not look like failures.
 
-### Manaira Labs
+### [Bicara.ai](https://bicara.ai)
 
-**[Bicara.ai](https://bicara.ai)** — an ERP for Indonesian small businesses. Thirty modules, plus a
-WhatsApp agent that answers stock, pricing and order questions from live business data rather than
-templates, in Bahasa Indonesia.
+An ERP for Indonesian small businesses. Thirty modules, plus a WhatsApp agent that answers stock,
+pricing and order questions from live business data rather than templates, in Bahasa Indonesia.
+The open-source pieces live in the `manairalabs` org:
 
 **[bicara-skills](https://github.com/manairalabs/bicara-skills)** — Claude skills for Indonesian
 business operations: invoice and faktur pajak extraction to structured JSON, with NPWP validation
