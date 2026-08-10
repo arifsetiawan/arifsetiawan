@@ -29,11 +29,10 @@ IDR formatting, NPWP/NIK validation, phone normalization, tax math, `terbilang`.
 
 ### AegisWorks — architect
 
-**[Nexus](https://nexusai.aegis.co.id)** — enterprise inference: open models running on the
+**[Nexus](https://nexusai.aegis.co.id)** — Enterprise inference: open models running on the
 customer's own hardware, with an agent runtime and multi-channel delivery on top.
 
-**[Fluentum](https://novastream.aegis.co.id)** — a change-data-capture control plane in Go:
-Debezium, Kafka, PostgreSQL and ClickHouse, for national-scale data consolidation.
+**[Novastream](https://novastream.aegis.co.id)** — The cloud-native event streaming platform that lets technical and business teams build real-time data pipelines, event-driven architectures, and intelligent applications — without the operational overhead of running Kafka yourself.
 
 ### Before
 
