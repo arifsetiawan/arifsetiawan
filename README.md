@@ -5,6 +5,11 @@ enterprise AI gateway for agents, models and MCP servers. I run the product loop
 customer conversations, PRDs, through the build, validating features before they ship, and the
 docs that go with them. I build as well as specify.
 
+Before Agent Router I was PM for
+[Tetrate Service Bridge](https://docs.tetrate.io/service-bridge), the company's flagship
+enterprise service mesh, and then for
+[Tetrate Istio Subscription](https://docs.tetrate.io/istio-subscription).
+
 ### [evals](https://github.com/arifsetiawan/evals)
 
 Evaluations of how AI models do real work, and how they fail. Four suites across four models, with
