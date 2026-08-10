@@ -27,12 +27,12 @@ and PPN/PPh handling.
 **[id-locale](https://github.com/manairalabs/id-locale)** — Indonesian locale utilities on npm.
 IDR formatting, NPWP/NIK validation, phone normalization, tax math, `terbilang`.
 
-### AegisWorks — architect
+### Real-time avatar engine
 
-**[Nexus](https://nexusai.aegis.co.id)** — Enterprise inference: open models running on the
-customer's own hardware, with an agent runtime and multi-channel delivery on top.
-
-**[Novastream](https://novastream.aegis.co.id)** — The cloud-native event streaming platform that lets technical and business teams build real-time data pipelines, event-driven architectures, and intelligent applications — without the operational overhead of running Kafka yourself.
+An open reimplementation of a published architecture, targeting under 500 ms from speech to a
+rendered face. The voice pipeline works; the rendering does not — the lip-sync model needs video
+input rather than a single photo, which gives a mean pixel difference of 3.7 and effectively no
+mouth movement. That only surfaced from building it and measuring.
 
 ### Before
 
