@@ -32,8 +32,8 @@ IDR formatting, NPWP/NIK validation, phone normalization, tax math, `terbilang`.
 **[Nexus](https://nexusai.aegis.co.id)** — enterprise inference: open models running on the
 customer's own hardware, with an agent runtime and multi-channel delivery on top.
 
-**Fluentum** — a change-data-capture control plane in Go: Debezium, Kafka, PostgreSQL and
-ClickHouse, for national-scale data consolidation.
+**[Fluentum](https://novastream.aegis.co.id)** — a change-data-capture control plane in Go:
+Debezium, Kafka, PostgreSQL and ClickHouse, for national-scale data consolidation.
 
 ### Before
 
