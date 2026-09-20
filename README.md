@@ -12,9 +12,10 @@ enterprise service mesh, and then for
 
 ### [evals](https://github.com/arifsetiawan/evals)
 
-Evaluations of how AI models do real work, and how they fail. Four suites across six models, with
-negative controls, outcome scored separately from process, and the null results kept in rather
-than quietly deleted. The dangerous failures, it turns out, do not look like failures.
+Evaluations of how AI models do real work, and how they fail. Four suites across six models,
+outcome scored separately from process, and the null results kept in rather than quietly deleted.
+Three of the four carry a negative control; the fourth says in its own writeup that it does not.
+The dangerous failures, it turns out, do not look like failures.
 
 ### [Bicara.ai](https://bicara.ai)
 
