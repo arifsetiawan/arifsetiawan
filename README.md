@@ -5,17 +5,12 @@ enterprise AI gateway for agents, models and MCP servers. I run the product loop
 customer conversations, PRDs, through the build, validating features before they ship, and the
 docs that go with them. I build as well as specify.
 
-Before Agent Router I was PM for
+Most of my work has been enterprise identity and access control. At Agent Router that is SSO for
+customers' identity providers, roles for the API and console, and delegated identity for agents
+calling tools. Before that I was PM for
 [Tetrate Service Bridge](https://docs.tetrate.io/service-bridge), the company's flagship
-enterprise service mesh, and then for
+enterprise service mesh, including its single sign-on over LDAP and OIDC, and then for
 [Tetrate Istio Subscription](https://docs.tetrate.io/istio-subscription).
-
-### [evals](https://github.com/arifsetiawan/evals)
-
-Evaluations of how AI models do real work, and how they fail. Four suites across six models,
-outcome scored separately from process, and the null results kept in rather than quietly deleted.
-Three of the four carry a negative control; the fourth says in its own writeup that it does not.
-The dangerous failures, it turns out, do not look like failures.
 
 ### [Bicara.ai](https://bicara.ai)
 
@@ -30,8 +25,14 @@ and PPN/PPh handling.
 **[id-locale](https://github.com/manairalabs/id-locale)** — Indonesian locale utilities on npm.
 IDR formatting, NPWP/NIK validation, phone normalization, tax math, `terbilang`.
 
+### [evals](https://github.com/arifsetiawan/evals)
+
+Evaluations of how AI models do real work, and how they fail — four suites across six models.
+
 ### Before
 
-Lead developer. MSc in computer vision, BSc in physics. Still in the code.
+Product direction for an enterprise integration platform for Indonesian banks — an API gateway in
+front of AS/400 core banking, and SSO over Active Directory and LDAP. Before that, CTO and lead
+developer. MSc in computer vision, BSc in physics. Still in the code.
 
 Bandung, Indonesia.
